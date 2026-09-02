@@ -1,49 +1,49 @@
-# AMBAIOWEI SOLOMON
+<div align="center">
+  <img src="assets/hero_banner.jpg" width="100%">
+  
+  <h1>Hi there, I'm Ambaiowei Solomon</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Developer;Visual+Storyteller" />
+  </a>
+  <br>
 
-<p align="center">
-  <img src="assets/hero.gif" alt="Ambaiowei Solomon — Data, Engineering, Creative" width="100%">
-</p>
-
-<p align="center">
-  <b>Data Scientist & Creative Technologist</b><br>
-  Data • Engineering • Visual Storytelling
-</p>
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_EMAIL">Contact</a>
-</p>
+  <!-- Social Badges -->
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a Computer Science student focused on **Data Science and Analytics**, with an interest in building software systems around data.
+I'm a Computer Science student focused on **Data Science and Analytics**, with a strong interest in building scalable software systems around data. 
 
 I work across three connected areas:
+- **Data** — analysis, machine learning, visualization, and business intelligence
+- **Engineering** — web applications, backend systems, APIs, databases, and cloud
+- **Creative** — digital illustration, visual design, and visual storytelling
 
-- 📊 **Data** — analysis, machine learning, visualization and business intelligence
-- 💻 **Engineering** — web applications, backend systems, APIs, databases and cloud
-- 🎨 **Creative** — digital illustration, visual design and visual storytelling
-
-I like turning raw information and ideas into things that are **useful, understandable and visually engaging**.
-
----
-
-## 🧭 What I Do
-
-| 📊 Data | 💻 Engineering | 🎨 Creative |
-|---|---|---|
-| Data Analysis | Web Development | Digital Illustration |
-| Machine Learning | Backend Development | Visual Design |
-| Predictive Analytics | APIs | Visual Storytelling |
-| Data Visualization | Databases | Animation |
-| Business Intelligence | Cloud | Creative Technology |
+I like turning raw information and ideas into things that are **useful, understandable, and visually engaging**.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Data</b></td>
+    <td align="center" width="33%"><b>Engineering</b></td>
+    <td align="center" width="33%"><b>Creative</b></td>
+  </tr>
+  <tr>
+    <td align="center">Data Analysis<br>Machine Learning<br>Predictive Analytics<br>Data Visualization<br>Business Intelligence</td>
+    <td align="center">Web Development<br>Backend & APIs<br>Databases<br>Cloud Computing<br>Web3 & Cairo</td>
+    <td align="center">Digital Illustration<br>Visual Design<br>Visual Storytelling<br>Animation<br>Creative Technology</td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 ### Data & Machine Learning
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SHAP` `Matplotlib` `Seaborn`
@@ -62,65 +62,37 @@ I like turning raw information and ideas into things that are **useful, understa
 
 ---
 
-# 🚀 Featured Work
+## Featured Work
 
-### 📊 Data Science
-
+### Data Science
 > **From raw data → analysis → insight → model → visualization**
 
-<p align="center">
-  <img src="assets/data-insight.gif" alt="Animated data visualization" width="75%">
-</p>
+<div align="center">
+  <img src="assets/data-insight.gif" alt="Animated data visualization" width="60%">
+</div>
+<br>
 
-**Featured projects**
+* **LA Crime Analysis** — exploratory analysis and visualization of crime data
+* **Blinkit / Reign Tech Analysis** — data cleaning, exploration and business insights
+* **Machine Learning Projects** — predictive modelling, feature engineering and model interpretation
 
-- **LA Crime Analysis** — exploratory analysis and visualization of crime data
-- **Blinkit / Reign Tech Analysis** — data cleaning, exploration and business insights
-- **Machine Learning Projects** — predictive modelling, feature engineering and model interpretation
-
----
-
-### 💻 Engineering
-
-I build applications and systems that connect data, users and useful functionality.
-
-**Focus areas**
-
+### Engineering
+I build applications and systems that connect data, users and useful functionality.<br>
 `Frontend` → `Backend` → `API` → `Database` → `Cloud`
 
-Selected technologies include **React, Flask, JavaScript, SQL and Azure**.
-
----
-
-### 🎨 Creative Technology
-
-<p align="center">
-  <img src="assets/creative-process.gif" alt="Animated creative workflow" width="75%">
-</p>
+### Creative Technology
+<div align="center">
+  <img src="assets/creative-process.gif" alt="Animated creative workflow" width="60%">
+</div>
+<br>
 
 My creative work includes digital illustration, visual design and experimenting with ways technology can make visual experiences more interactive.
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Stats
 
-<!-- Add your GitHub statistics here later -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" width="42%">
-</p>
-
----
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_EMAIL">Email</a>
-</p>
-
-<p align="center">
-  <sub>Data • Engineering • Creativity</sub>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmbaRain&show_icons=true&theme=transparent&hide_border=true&title_color=555555&text_color=888888&icon_color=555555" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmbaRain&theme=transparent&hide_border=true&title_color=555555&text_color=888888&icon_color=555555&sideNums=555555&sideLabels=888888&ring=555555&fire=555555" alt="GitHub Streak" width="48%" />
+</div>
